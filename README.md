@@ -1,5 +1,5 @@
 # Generating-image-annotation-model
-BE FInal Year project
+BE Final Year project
 
 This solution is for people who are visually impaired where this platform will help them identify their immediate vicinity with ease.
 
