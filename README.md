@@ -1,7 +1,7 @@
-# Generating-image-annotation-model
-BE Final Year project
+# Visual Assistant
 
-This solution is for people who are visually impaired where this platform will help them identify their immediate vicinity with ease.
+
+Implemented a deep learning model that automatically generates image captions with the goal to help visually impaired people to better understand their surroundings.
 
 The capt_test folder has images upon which training has been done.
 The capt.json has 5 captions each for every image.
